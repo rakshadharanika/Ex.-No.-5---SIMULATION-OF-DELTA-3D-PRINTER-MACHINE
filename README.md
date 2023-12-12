@@ -31,6 +31,8 @@
 
 ## Output:
 
+![Screenshot (18)](https://github.com/rakshadharanika/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149348380/20cf2ca8-965e-434b-b85e-4e05ee75838b)
+
 ### Name:
 ### Register Number:
 
