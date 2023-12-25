@@ -31,8 +31,8 @@
 
 ![Screenshot (18)](https://github.com/rakshadharanika/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149348380/20cf2ca8-965e-434b-b85e-4e05ee75838b)
 
-### Name:
-### Register Number:
+### Name:V RAKSHA DHARANIKA
+### Register Number:212223230167
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
